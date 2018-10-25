@@ -1,3 +1,6 @@
+
+# Please see the readme file inside src folder for detailed solution and assumptions to calculate two metrics: **Top 10 Occupations** and **Top 10 States** for **certified** visa applications.   
+
 # Table of Contents
 1. [Problem](README.md#problem)
 2. [Input Dataset](README.md#input-dataset)

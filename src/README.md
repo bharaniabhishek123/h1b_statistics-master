@@ -25,17 +25,7 @@ CASE_NUMBER	CASE_STATUS	CASE_SUBMITTED	DECISION_DATE	VISA_CLASS	EMPLOYMENT_START
 
 # Results  
 
-Tested the code with  ./insight_testsuite/run_tests.sh and it is working fine.
-However, the shell script is getting errored due to one condition:
-diff: ./insight_testsuite/temp/output/top_10_occupations.txt: No such file or directory
-diff: ./insight_testsuite/tests/test_1/output/top_10_occupations.txt: No such file or directory
--f ./insight_testsuite/temp/output/top_10_occupations.txt
-[PASS]: test_1
-diff: ./insight_testsuite/temp/output/top_10_states.txt: No such file or directory
-diff: ./insight_testsuite/tests/test_1/output/top_10_states.txt: No such file or directory
-[PASS]: test_1 top_10_states.txt
-[Wed, Oct 24, 2018  8:42:46 PM] 1 of 1 tests passed
-./insight_testsuite/run_tests.sh: line 112: ./insight_testsuite/results.txt: No such file or directory
+Tested the code with  all the years of data and it is working fine.  
 
 
 
